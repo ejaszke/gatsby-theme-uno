@@ -19,12 +19,12 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-theme-carbon',
+      resolve: 'gatsby-theme-uno',
       options: {
         mediumAccount: 'carbondesign',
         repository: {
           baseUrl:
-            'https://github.com/carbon-design-system/gatsby-theme-carbon',
+            'https://github.com/ejaszke/gatsby-theme-uno',
           subDirectory: '/packages/example',
         },
       },
